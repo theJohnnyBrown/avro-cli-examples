@@ -27,7 +27,7 @@ You can get a copy of the latest stable Avro Tools jar file from the
 [Avro Releases](http://avro.apache.org/releases.html#Download) page.  The actual file is in the `java` subdirectory
 of a given Avro release version.
 
-Here is a direct link to [avro-tools-1.7.6.jar](http://www.us.apache.org/dist/avro/avro-1.7.6/java/avro-tools-1.7.6.jar)
+Here is a direct link to [avro-tools-1.7.6.jar](http://www.us.apache.org/dist/avro/avro-1.7.7/java/avro-tools-1.7.7.jar)
 (12 MB) on the US Apache mirror site.
 
 
